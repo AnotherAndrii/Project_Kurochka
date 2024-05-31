@@ -1,1 +1,2 @@
 This is my Gitlab second file
+Some changes
